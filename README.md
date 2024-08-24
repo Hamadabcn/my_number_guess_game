@@ -26,7 +26,7 @@ To run this game on your local machine, follow the steps below:
 4. Run the Game: python main.py
 
 # Usage
-After running the game, simply follow the on-screen instructions to start guessing the number. Use the input box or Numpad to enter your guesses and try to find the correct number with as few attempts as possible.
+After running the game, simply follow the on-screen instructions to start guessing the number. Use the input box or Numpad to enter your guesses and try to find the correct number with the fewest attempts possible.
 
 # Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to fork the repository and submit a pull request.
