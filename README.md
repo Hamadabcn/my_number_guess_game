@@ -20,7 +20,7 @@ This is a graphical number guessing game built using Python and Pygame. The game
 
 # Installation
 To run this game on your local machine, follow the steps below:
-1. Clone the Repository: git clone https://github.com/yourusername/number-guessing-game.git
+1. Clone the Repository: git clone https:https://github.com/Hamadabcn/my_number_guess_game.git
 2. Navigate to the Project Directory: cd number-guessing-game
 3. Install Dependencies: Ensure you have Python and Pygame installed. If not, you can install Pygame using pip: pip install pygame 
 4. Run the Game: python main.py
