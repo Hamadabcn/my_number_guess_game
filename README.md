@@ -1,3 +1,8 @@
+
+
+https://github.com/user-attachments/assets/097e66a1-cf4c-445f-8349-ff7a21ac0847
+
+![my_number_guess](https://github.com/user-attachments/assets/23ce24c3-10f4-4930-b7b6-1d67b5acea51)
 # Number Guessing Game
 This is a graphical number guessing game built using Python and Pygame. The game challenges you to guess a randomly selected number between 1 and 100 in the fewest attempts possible.
 
